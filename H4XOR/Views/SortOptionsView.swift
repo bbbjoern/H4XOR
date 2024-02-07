@@ -19,5 +19,3 @@ struct SortOptionsView: View {
         .shadow(radius: 5)
     }
 }
-
-
